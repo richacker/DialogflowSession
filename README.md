@@ -86,5 +86,6 @@ Integrating with Facebook
 31. Lets try the bot now on the page. You should get a response now.
 
 Adding API based fulfilment
+1. Use https://ecd59b2928fb.ngrok.io
 
 Adding telephony services
